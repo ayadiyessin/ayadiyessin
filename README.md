@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌍  I'm based in Sfax, TUNISIA 
+
 - 🌱 I’m currently learning **AI and DevOps**
 
 - 🤝 I’m open to **any opportunity**
