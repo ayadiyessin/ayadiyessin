@@ -13,7 +13,7 @@
 
 - 🤝 I’m open to **any opportunity**
 
-- 📫 How to reach me **yassine.ayadi200058@gmail.com**
+- 📫 You can contact me at **yassine.ayadi200058@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
