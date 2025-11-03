@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://yassineayadi.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://yassineayadi.netlify.app/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayadi-yassine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayadi-yassine" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/yassine ayadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yassine ayadi" height="30" width="40" /></a>
 <a href="https://fb.com/yassine.ayadi.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassine.ayadi.71" height="30" width="40" /></a>
