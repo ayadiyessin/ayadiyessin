@@ -6,9 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=ayadiyessin&label=Profile%20views&color=0e75b6&style=flat" alt="ayadiyessin" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayadiyessin" alt="ayadiyessin" /></a>
-</p>
+</p> -->
 
 - 🔭 **Currently working on:** MEDA ECN, a SaaS platform for medical residency exam prep (Tunisia) — building an end-to-end RAG pipeline (semantic chunking, embeddings, Qdrant vector search, ONNX cross-encoder reranking, GPT-based generation), a source-cited streaming chatbot, and an automatic NBME-standard medical MCQ generator.
 - 🌱 **Currently learning:** Agentic AI, Multi-Agent Systems, Model Context Protocol (MCP), and LangGraph.
