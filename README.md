@@ -50,8 +50,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayadiyessin&show_icons=true&locale=en&layout=compact" alt="ayadiyessin" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayadiyessin&show_icons=true&locale=en&layout=compact" alt="ayadiyessin" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayadiyessin&show_icons=true&locale=en" alt="ayadiyessin" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayadiyessin&show_icons=true&locale=en" alt="ayadiyessin" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayadiyessin&" alt="ayadiyessin" /></p>
